@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Coding many Projects<br>👯 I’m looking to collaborate on various coding Projects<br>🤝 I’m looking for help with getting a Job<br>🌱 I’m currently learning Python, JavaScript, JAVA, MySQL<br>💬 Ask me about anything<br>⚡ Fun fact I Love sleeping
 
+<img width="1280" height="320" alt="Image" src="https://github.com/user-attachments/assets/d81a8e3e-9734-4c27-aa08-f146989c0e31" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mykho.grande.1/about/?id=100045879270089&sk=about) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ohkym) 
